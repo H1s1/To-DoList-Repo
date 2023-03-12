@@ -28,7 +28,7 @@ main().catch(err => console.log(err));
 async function main(){
 
     // Establishing connection between DB and this webApp.
-    mongoose.connect("mongodb+srv://Himanshu:Test1234@cluster0.y4nquy6.mongodb.net/todolistDB");
+    mongoose.connect("mongodb+srv://Himanshu:Password@cluster0.y4nquy6.mongodb.net/todolistDB");
     
     //Schema or bluePrint of records in document
     const itemsSchema = new mongoose.Schema({
