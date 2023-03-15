@@ -15,13 +15,13 @@ List Title will be the day when you open web app
 This application can create list of your choice , Type the name of list you want to create in serch box with "/" in front of it . for example let's create list 
 of name "customizelist" 
 ![customiselist image](Screenshots/creating-customizelist.png)
-after writing the name of list just press eneter , you will get the list with list Title of your choise with some default element in it 
+after writing the name of list just press eneter , you will get the list with list Title of your choice with some default element in it 
 ![created customiselist img](Screenshots/created-customlist.png)
 
 ## Adding new element in list
 New item can be added on the list by following steps
 
-1.at bottom of the list there is one blank space , type your new item  or new element there
+1. At bottom of the list there is one blank space , type your new item  or new element there
 ![new elemtn img](Screenshots/creating-newElement.png)
 2. Than press the button beside blank space having "+" symbol on it
 ![button img](Screenshots/button.png)
