@@ -28,9 +28,9 @@ var Option = {weekday:"long",
 // year :'numeric' ,
 //  month:'short' ,
 //  day:'numeric' , 
- hour:'2-digit',
- second:'2-digit',
- minute:'numeric'
+// hour:'2-digit',
+// second:'2-digit',
+// minute:'numeric'
 };
 
 let day = today.toLocaleDateString('en-US',Option);
